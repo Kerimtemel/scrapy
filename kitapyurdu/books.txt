@@ -1,0 +1,40 @@
+					***1kitap****
+İSİM:Herkes O’nu Anlatıyor 1 / Ailesi	YAZAR: Hatice Kübra Tongar	ÜCRET: 81,25₺
+					***2kitap****
+İSİM:Gece Yarısı Kütüphanesi	YAZAR: Matt Haig	ÜCRET: 70,45₺
+					***3kitap****
+İSİM:Âsa / Bir Emir Sultan Romanı	YAZAR: Fatih Duman	ÜCRET: 96,85₺
+					***4kitap****
+İSİM:Şeker Portakalı (Ciltsiz)	YAZAR: Jose Mauro De Vasconcelos	ÜCRET: 79,06₺
+					***5kitap****
+İSİM:Yaşamak	YAZAR: Yu Hua 	ÜCRET: 56,05₺
+					***6kitap****
+İSİM:Momo	YAZAR: Michael Ende	ÜCRET: 129,90₺
+					***7kitap****
+İSİM:Beyaz Gemi	YAZAR: Cengiz Aytmatov	ÜCRET: 44,28₺
+					***8kitap****
+İSİM:İnsanlığımı Yitirirken	YAZAR: Osamu Dazai	ÜCRET: 36,31₺
+					***9kitap****
+İSİM:Simyacı (Ciltsiz)	YAZAR: Paulo Coelho	ÜCRET: 82,50₺
+					***10kitap****
+İSİM:Küçük Prens	YAZAR: Antoine De Saint Exupery	ÜCRET: 9,90₺
+					***11kitap****
+İSİM:Senin Cahilliğin Benim Yaşamımı Etkiliyor	YAZAR: A. M. Celal Şengör	ÜCRET: 82,50₺
+					***12kitap****
+İSİM:Saatleri Ayarlama Enstitüsü	YAZAR: Ahmet Hamdi Tanpınar	ÜCRET: 122,04₺
+					***13kitap****
+İSİM:Kayıp Ağaçlar Adası	YAZAR: Elif Şafak	ÜCRET: 109,00₺
+					***14kitap****
+İSİM:Kürk Mantolu Madonna	YAZAR: Sabahattin Ali	ÜCRET: 13,73₺
+					***15kitap****
+İSİM:Uzun Hikaye	YAZAR: Mustafa Kutlu	ÜCRET: 44,20₺
+					***16kitap****
+İSİM:Masumiyet Müzesi	YAZAR: Orhan Pamuk	ÜCRET: 105,54₺
+					***17kitap****
+İSİM:Bin Dokuz Yüz Seksen Dört - 1984	YAZAR: George Orwell	ÜCRET: 12,90₺
+					***18kitap****
+İSİM:Zeytindağı	YAZAR: Falih Rıfkı Atay	ÜCRET: 47,44₺
+					***19kitap****
+İSİM:Puslu Kıtalar Atlası	YAZAR: İhsan Oktay Anar	ÜCRET: 77,12₺
+					***20kitap****
+İSİM:Nietzsche Ağladığında	YAZAR: Irvin D. Yalom	ÜCRET: 109,00₺

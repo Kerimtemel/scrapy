@@ -1,0 +1,12 @@
+1- doğru istek
+2-bilgiyi çek
+3-bağlantıyı koparma
+
+
+-spider çok hızlıdır saniyede onlarca istek gönderebilirsiniz,ve bu server  bunu ayırt eder
+
+429== çok istek gönderiyosun yavaş ol
+503==istediğiniz gerçekleştiremiyorum
+============================================================================================
+hiyerarşik etiketlenmiş dokümanlarda
+-response.css
