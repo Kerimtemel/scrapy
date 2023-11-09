@@ -1,0 +1,80 @@
+1 = Titanik
+release date= 20 Şubat 1998
+views = 1.470.316
+
+2 = Hızlı ve Öfkeli 7
+release date= 3 Nisan 2015
+views = 1.470.316
+
+3 = Örümcek-Adam: Eve Dönüş Yok
+release date= 17 Aralık 2021
+views = 1.470.316
+
+4 = Avatar: Suyun Yolu
+release date= 16 Aralık 2022
+views = 1.470.316
+
+5 = Hızlı ve Öfkeli 8
+release date= 13 Nisan 2017
+views = 1.470.316
+
+6 = Avatar
+release date= 18 Aralık 2009
+views = 1.470.316
+
+7 = Avengers: Endgame
+release date= 25 Nisan 2019
+views = 1.470.316
+
+8 = Avengers: Sonsuzluk Savaşı
+release date= 27 Nisan 2018
+views = 1.470.316
+
+9 = Buz Devri 4: Kıtalar Ayrılıyor
+release date= 29 Haziran 2012
+views = 1.470.316
+
+10 = Joker
+release date= 4 Ekim 2019
+views = 1.470.316
+
+11 = Yüzüklerin Efendisi: Yüzük Kardeşliği
+release date= 21 Aralık 2001
+views = 1.470.316
+
+12 = Oppenheimer
+release date= 21 Temmuz 2023
+views = 1.470.316
+
+13 = Truva
+release date= 14 Mayıs 2004
+views = 1.470.316
+
+14 = Hobbit: Beş Ordunun Savaşı
+release date= 17 Aralık 2014
+views = 1.470.316
+
+15 = Hızlı ve Öfkeli 10
+release date= 19 Mayıs 2023
+views = 1.470.316
+
+16 = Doktor Strange Çoklu Evren Çılgınlığında
+release date= 6 Mayıs 2022
+views = 1.470.316
+
+17 = Karayip Korsanları: Salazar'ın İntikamı
+release date= 26 Mayıs 2017
+views = 1.470.316
+
+18 = 2012
+release date= 13 Kasım 2009
+views = 1.470.316
+
+19 = Yüzüklerin Efendisi: İki Kule
+release date= 20 Aralık 2002
+views = 1.470.316
+
+20 = Matrix Reloaded
+release date= 16 Mayıs 2003
+views = 1.470.316
+
